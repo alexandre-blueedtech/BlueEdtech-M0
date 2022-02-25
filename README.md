@@ -14,10 +14,10 @@ Atividades da Blue-Edtech em módulo de Algorítimo de Programação
 
 
 <div align="center">
-<img src="https://yt3.ggpht.com/a-/AAuE7mBL_77C43zyQb50pu9RJ53V40GTu-dgZ_qmVQ=s900-mo-c-c0xffffffff-rj-k-no" min-width="400px" max-width="400px" width="100px" align="left" alt="Jokenpô"><div>
+<img src="https://yt3.ggpht.com/a-/AAuE7mBL_77C43zyQb50pu9RJ53V40GTu-dgZ_qmVQ=s900-mo-c-c0xffffffff-rj-k-no" min-width="400px" max-width="400px" width="180px" align="left" alt="Jokenpô"><div>
   
 <div align="center">
-<img src="https://th.bing.com/th/id/OIP.UqQOw65vlInyLQpJa1wDngHaHa?w=199&h=199&c=7&r=0&o=5&pid=1.7" min-width="400px" max-width="400px" width="100px" align="left" alt="Caixa"><div>
+<img src="https://th.bing.com/th/id/OIP.UqQOw65vlInyLQpJa1wDngHaHa?w=199&h=199&c=7&r=0&o=5&pid=1.7" min-width="400px" max-width="400px" width="180px" align="left" alt="Caixa"><div>
   
 <div align="center">
-<img src="https://th.bing.com/th/id/OIP._t91AD4zrY-OIq-JfhX5nwHaG-?pid=ImgDet&rs=1" min-width="400px" max-width="400px" width="100px" align="left" alt="Caixa"><div>
+<img src="https://th.bing.com/th/id/OIP._t91AD4zrY-OIq-JfhX5nwHaG-?pid=ImgDet&rs=1" min-width="400px" max-width="400px" width="180px" align="left" alt="Caixa"><div>
