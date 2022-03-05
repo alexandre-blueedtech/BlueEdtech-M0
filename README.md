@@ -23,4 +23,4 @@ Atividades da Blue-Edtech em módulo de Algorítimo de Programação
 <img src="https://th.bing.com/th/id/OIP._t91AD4zrY-OIq-JfhX5nwHaG-?pid=ImgDet&rs=1" min-width="400px" max-width="400px" width="192px" align="left" alt="Caixa"><div>
 
 <div align="center">
-<img src="https://t1.uc.ltmcdn.com/pt/images/4/0/8/img_como_se_usa_o_ponto_de_interrogacao_8804_600_square.jpg" min-width="400px" max-width="400px" width="180px" align="left" alt="Caixa"><div>
+<img src="https://th.bing.com/th/id/R.95787c4ac416dda464a2dae2912f63a8?rik=QB2Qd3csleXqOw&riu=http%3a%2f%2fwww.adjorisc.com.br%2fweb_arquivos%2f1.2136058%2fimagens%2f15554413511540.jpg&ehk=poWQhfOZ2tqrGmUkU61tyy7oiBsMR45jdMJiAbqtHAI%3d&risl=&pid=ImgRaw&r=0" min-width="400px" max-width="400px" width="180px" align="left" alt="Caixa"><div>
